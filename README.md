@@ -1,5 +1,5 @@
 # Soma e Produto
-Calculadora com print de maior número em lista.
+Calculadora com exibição do maior número em lista
 
 ## 💻 Demonstração
 
