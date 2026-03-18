@@ -1,4 +1,4 @@
-# Soma_and_produto
+# Soma e Produto
 Calculadora com print de maior número em lista.
 
 ## 💻 Demonstração
