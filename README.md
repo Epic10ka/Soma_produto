@@ -15,12 +15,14 @@ Calculadora com print de maior número em lista.
 ## 🟣 Produto
 <img width="602" height="723" alt="image" src="https://github.com/user-attachments/assets/12a401de-02d1-449d-a75a-454f0261c160" />
 
-    Sobre:
-Fiz esse projeto como parte dos exercícios do Curso em Vídeo, do Gustavo Guanabara.
-O excercício pedia para fazer essa calculadora com soma, produto, checagem de maior nas suas listas
-e substituição dos maiores valores.
+    📌Sobre:
+    
+Fiz este projeto como parte dos exercícios do Curso em Vídeo, do professor Gustavo Guanabara.
+O exercício pedia a criação de uma calculadora com funcionalidades de soma, produto, 
+verificação do maior valor em listas e substituição desses valores.
 
-    Conceitos aplicados:
+    🧠Conceitos aplicados:
+    
 —Loops
 
 —Funções
@@ -34,13 +36,15 @@ e substituição dos maiores valores.
 —Adição e remoção de "itens"
 
     Funcionalidades:
+    
 -O usuário tem 5 opções no menu principal: Soma, Produto, Maior, Novos números e Sair
 
--O usuário pode verificar os maiores valores das suas somas ou os produtos que foram inputados.
+-O usuário pode verificar os maiores valores das somas ou dos produtos inseridos.
 
--A terceira opção dá a possibilidade do usuário trocar os maiores valores das listas sem ser pelo meno 'Soma' ou 'Produto'.
+-A opção "Maior" permite substituir os maiores valores das listas sem precisar acessar 
+os menus de Soma ou Produto.
 
-    Como executar o projeto:
+    ▶️Como executar o projeto:
     
 -Clone ou baixe esse repositório: https://github.com/Epic10ka/Soma_and_produto
 
