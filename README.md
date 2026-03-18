@@ -15,6 +15,7 @@ Calculadora com print de maior número em lista.
 ## 🟣 Produto
 <img width="602" height="723" alt="image" src="https://github.com/user-attachments/assets/12a401de-02d1-449d-a75a-454f0261c160" />
 
+
     📌Sobre:
     
 Fiz este projeto como parte dos exercícios do Curso em Vídeo, do professor Gustavo Guanabara.
@@ -35,7 +36,7 @@ verificação do maior valor em listas e substituição desses valores.
 
 —Adição e remoção de "itens"
 
-    Funcionalidades:
+    ⚙️Funcionalidades:
     
 -O usuário tem 5 opções no menu principal: Soma, Produto, Maior, Novos números e Sair
 
