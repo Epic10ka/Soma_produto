@@ -4,16 +4,16 @@ Calculadora com print de maior número em lista.
 ## 💻 Demonstração
 
 ### Menu rincipal
-<img width="355" height="782" alt="image" src="https://github.com/user-attachments/assets/1810a97b-46f7-4f07-956c-2469004c178a" />
+<img width="406" height="302" alt="image" src="https://github.com/user-attachments/assets/1b0764c8-516d-4116-8c51-2f914034e30d" />
 
 ## ➕ Soma 
-<img width="433" height="353" alt="image" src="https://github.com/user-attachments/assets/5ee55820-0b29-4f66-8c89-6a0b79fa7fc9" />
+<img width="355" height="782" alt="image" src="https://github.com/user-attachments/assets/19512b37-54ae-45d2-bd19-978adfa917c9" />
 
 ## 🔼 Maiores
-<img width="358" height="630" alt="image" src="https://github.com/user-attachments/assets/3c07f308-f76e-48a9-b5d5-53b0cb22fd79" />
+<img width="358" height="630" alt="image" src="https://github.com/user-attachments/assets/9874218f-b195-4089-bed4-6e6d2233e86d" />
 
 ## 🟣 Produto
-<img width="602" height="723" alt="image" src="https://github.com/user-attachments/assets/1f356457-6134-48d8-b72c-d3ef98baae0d" />
+<img width="602" height="723" alt="image" src="https://github.com/user-attachments/assets/12a401de-02d1-449d-a75a-454f0261c160" />
 
     Sobre:
 Fiz esse projeto como parte dos exercícios do Curso em Vídeo, do Gustavo Guanabara.
